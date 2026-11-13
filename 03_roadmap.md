@@ -1,0 +1,21 @@
+# 12-Month Roadmap – Kloud Kart
+
+**Prepared for:** Nana Adjei, Head of Operations\
+**Date:** 13 November 2026
+
+Each line says who is better off, what changes, and how Nana can check it herself, without asking an engineer. Month 1 is when the board approves the plan.
+
+| Quarter | Outcome (who is better off, and what changes) | How Nana checks it, and by when |
+|------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Q1 (months 1–3): Stop the bleeding**               | Customers and Nana: Monday reporting no longer slows the website         | By week 6, Nana runs the Monday report at 09:00 while placing a test order on her phone, and the order goes through normally. Customer service logs no “site slow” complaints on four Mondays in a row |
+|                                                      | Nana: the Data Protection Commission complaint is answered with evidence | By day 60, before the 90-day deadline, Nana signs a reply listing every place the customer’s data was held and the date it was cleared. The deletion tracker shows every place ticked                  |
+|                                                      | Nana and the board: Kloud Kart knows where its customer data is          | By the end of month 3, Nana can give the board a number of places holding customer data, taken from the register. Marketing’s latest campaign list came from the controlled source, not a laptop       |
+| **Q2 (months 4–6): One set of numbers**              | Nana and Finance: they stop arguing about revenue                        | At the month-5 board meeting, Nana and Finance quote the same revenue figure for the previous month, from the same report, backed by a one-page definition both have signed                            |
+|                                                      | Nana: Mondays no longer start with exports                               | From month 6, the report is ready at 08:00 with today’s “last updated” date. Nana runs no export for eight Mondays in a row and gets back about 4 hours a week                                         |
+| | Customers and Nana: the website stops selling items that have sold out | By the end of month 5, the refund log shows fewer than 5 oversold orders a month (down from about 40), two months running |
+| **Q3 (months 7–9): See the whole business**          | Nana and the board: Ghana and Nigeria side by side                       | By the end of month 8, Nana opens one report showing orders, revenue and refunds for Ghana, Nigeria and both combined. Nigeria’s figure matches the pilot team’s own count                             |
+|                                                      | Nana: she can answer “compared with when?” herself                       | By the end of month 9, Nana can compare this month with the same month last year for any product category, without asking anyone. Weekly stock levels are kept from month 7                            |
+| **Q4 (months 10–12): Numbers that check themselves** | Nana: she hears about a bad number before the meeting, not in it         | From month 10, if the nightly refresh fails or yesterday’s orders look wrong, Nana gets a message by 07:30 saying the report is on hold. Tested once in a planned drill                                |
+|                                                      | Purchasing and the board: ready to decide on forecasting                 | By month 12, Purchasing reorders its top 50 products using a simple four-week sales-average report. Nana has 12 months of agreed revenue, and the board decides on forecasting for year two            |
+
+**Why this order:** stop active losses and the legal deadline first, then agree the revenue definition every number depends on. The warehouse, the hardest choice to reverse, comes in Q3, once more is known. Q1 starts before either hire arrives. **Not on this roadmap:** forecasting and a data scientist (decided at month 12); a lakehouse; live dashboards other than stock; a cloud warehouse.
